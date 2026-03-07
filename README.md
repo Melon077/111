@@ -1,4 +1,4 @@
-# README.md
+# README
 
 A simple and lightweight campus item borrowing management system implemented in Python 
 
