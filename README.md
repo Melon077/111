@@ -6,23 +6,24 @@ A simple and lightweight campus item borrowing management system implemented in 
 
 - [Introduction](#introduction)
   
-- [Features]
+- [Features](#features)
 
-- [Quick Start]
+- [Quick Start](#quick)
 
-- [Code Structure]
+- [Code Structure](#Code)
 
-- [Usage Guide]
+- [Usage Guide](#guide)
 
-- [Notes]
+- [Notes](#notes)
 
-- [Submission Info]
+- [Submission Info](#info)
 
 <a id="introduction"></a>
 ## :pencil: Introduction
 
 This project is a **Campus Item Borrowing Management System** developed with pure Python, based on Object-Oriented Programming (OOP) paradigm. It is designed to solve the real-life problem of managing the borrowing and returning of daily items (such as power banks, umbrellas, stationery) on university campuses. The system meets all Task 1 requirements, including using all OOP concepts taught in Week 3 and being split into no less than 3 modules.
 
+<a id="features"></a>
 ## :sparkles: Features
 
 - 📋 **View all items**: Check the ID, name, category and borrowing status of all campus items
@@ -35,6 +36,7 @@ This project is a **Campus Item Borrowing Management System** developed with pur
 
 - 👤 **User differentiation**: Support basic distinction between ordinary users and administrators (extensible)
 
+<a id="quick"></a>
 ## :rocket: Quick Start
 
 ### Prerequisites
@@ -52,6 +54,7 @@ This project is a **Campus Item Borrowing Management System** developed with pur
 2. Execute the main program in the terminal:
             `python main.py`
 
+<a id="code"></a>
 ## :file_folder: Code Structure
 
 |File Name|Description|
@@ -111,6 +114,7 @@ I001 Item returned
 
 Enter `0` to exit the system → `Exiting system`
 
+<a id="notes"></a>
 ## :warning: Notes
 
 - The system uses in-memory storage (no persistent database), all data will be lost after exiting the program.
@@ -121,6 +125,7 @@ Enter `0` to exit the system → `Exiting system`
 
 - This project uses all OOP concepts taught in Week 3 and meets the minimum requirement of 3 modules.
 
+<a id="info"></a>
 ## :clipboard: Submission Info
 
 - Course: COMP2090SEF 
