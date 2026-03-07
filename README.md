@@ -4,7 +4,7 @@ A simple and lightweight campus item borrowing management system implemented in 
 
 ## :book: Contents
 
-- [Introduction]（#my—custom—intro）
+- [Introduction]（#introduction）
   
 - [Features]
 
@@ -18,7 +18,8 @@ A simple and lightweight campus item borrowing management system implemented in 
 
 - [Submission Info]
 
-## :pencil: Introduction{#my—custom—intro}
+<a id="introduction"></a>
+## :pencil: Introduction
 
 This project is a **Campus Item Borrowing Management System** developed with pure Python, based on Object-Oriented Programming (OOP) paradigm. It is designed to solve the real-life problem of managing the borrowing and returning of daily items (such as power banks, umbrellas, stationery) on university campuses. The system meets all Task 1 requirements, including using all OOP concepts taught in Week 3 and being split into no less than 3 modules.
 
