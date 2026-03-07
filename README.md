@@ -129,10 +129,12 @@ Enter `0` to exit the system → `Exiting system`
 ## :clipboard: Submission Info
 
 - Course: COMP2090SEF 
-- Project Task: Task 1 (OOP Application Development)
+- Project Task: Task 1 
 
-- GitHub Repository: [Add your repository link here]
+- GitHub Repository: 
 
-- Team Members (COMP2090SEF): [Name 1 (Student ID), Name 2 (Student ID), Name 3 (Student ID)]
+- Team Members : Yan Zi Chen 
+                 Guo Zi Yu 13805823
+                 She Zhi Yuan
 
 
