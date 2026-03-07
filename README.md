@@ -122,12 +122,11 @@ Enter `0` to exit the system → `Exiting system`
 
 ## :clipboard: Submission Info
 
-- Course: COMP2090SEF / COMP8090SEF / COMP S209W
-
+- Course: COMP2090SEF 
 - Project Task: Task 1 (OOP Application Development)
 
 - GitHub Repository: [Add your repository link here]
 
 - Team Members (COMP2090SEF): [Name 1 (Student ID), Name 2 (Student ID), Name 3 (Student ID)]
 
-- Individual (COMP8090SEF/S209W): [Your Name (Student ID)]
+
