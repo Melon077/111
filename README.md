@@ -1,6 +1,6 @@
 # README.md
 
-**A simple and lightweight campus item borrowing management system implemented in Python (Task 1 of COMP2090SEF / COMP8090SEF / COMP S209W)**
+**A simple and lightweight campus item borrowing management system implemented in Python 
 
 ## :book: Contents
 
