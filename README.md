@@ -4,19 +4,19 @@
 
 ## :book: Contents
 
-- [Introduction](https://www.doubao.cn)
+- [Introduction]
+  
+- [Features]
 
-- [Features](https://www.doubao.cn)
+- [Quick Start]
 
-- [Quick Start](https://www.doubao.cn)
+- [Code Structure]
 
-- [Code Structure](https://www.doubao.cn)
+- [Usage Guide]
 
-- [Usage Guide](https://www.doubao.cn)
+- [Notes]
 
-- [Notes](https://www.doubao.cn)
-
-- [Submission Info](https://www.doubao.cn)
+- [Submission Info]
 
 ## :pencil: Introduction
 
